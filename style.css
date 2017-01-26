@@ -1,8 +1,17 @@
-custom div{
-	margin: 3px;
-	background:silver;
-	min-width: 200px;
-	min-height: 300px;
-	text-align: center;
-	font-size: large;
+.head{
+	font-family:monospace;
+	font-size: 250px;
+	color: red;
+}
+
+
+
+.container {
+	display: flex;
+	
+}
+
+.container image{
+	width:50%;
+	height:auto;
 }
